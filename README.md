@@ -222,7 +222,7 @@ This project provides an easy-to-use API for managing a movie collection with th
 
 ---
 
-Repository: JAYRALD ANGCAP - Movie CRUD API
+
 
 
 
